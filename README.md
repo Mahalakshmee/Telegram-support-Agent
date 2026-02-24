@@ -1,8 +1,8 @@
-🤖 Telegram Support Agent (Agentic AI + RAG)
+##🤖 Telegram Support Agent (Agentic AI + RAG)
 
 Tech Stack: Python, LangChain, Agentic AI, Retrieval-Augmented Generation (RAG), Telegram Bot API, Google APIs
 
-📌 Project Overview
+##📌 Project Overview
 
 The Telegram Support Agent is an AI-powered automation system designed to handle product queries, manage negotiation flows, and assist in closing deals directly through Telegram.
 
@@ -18,7 +18,7 @@ This project leverages:
 
 The primary goal was to build a reliable, controlled AI assistant capable of handling real-world business conversations with minimal hallucination and strict logic enforcement.
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 Language: Python
 
@@ -38,7 +38,7 @@ Automation: Workflow-Based Agent Execution
 
 Data Handling: Vector Retrieval + Structured Logic Control
 
-🚀 Key Features
+##🚀 Key Features
 
 🔎 RAG-based product query handling
 
@@ -52,7 +52,7 @@ Data Handling: Vector Retrieval + Structured Logic Control
 
 🛡️ Hallucination minimization using context filtering
 
-🧩 System Architecture:
+##🧩 System Architecture:
 
 🔹 Module 1: RAG-Based Product & Negotiation Handling
 
@@ -108,25 +108,33 @@ Meeting scheduling workflow is activated
 
 Calendar integration is handled programmatically
 
-📸 Screenshots
+##📸 Screenshots
 
-🛍 Product Query via RAG
+#🛍 Product Query via RAG
+
 
 <img width="895" height="309" alt="Image 1" src="https://github.com/user-attachments/assets/116e507f-a0c7-40ab-a172-a24cf491f38b" />
 
-💰 Negotiation Flow
+
+#💰 Negotiation Flow
+
 
 <img width="1241" height="943" alt="Image 3" src="https://github.com/user-attachments/assets/457f1614-bdc7-4428-80eb-ec929ad4c2ee" />
 
-📅 Meeting Scheduling Agent
+
+#📅 Meeting Scheduling Agent
+
 
 <img width="857" height="577" alt="Image2" src="https://github.com/user-attachments/assets/5a451c8c-53fb-41aa-a2d4-e7b6f7c33b11" />
 
-📧 Email Automation Trigger
+
+#📧 Email Automation Trigger
+
 
 <img width="1919" height="1022" alt="Image 4" src="https://github.com/user-attachments/assets/e737e632-c81b-4ee0-bd10-fda6168ea37d" />
 
-🔐 Security Notice
+
+##🔐 Security Notice
 
 API credentials and authentication tokens are not included in this repository for security reasons.
 
