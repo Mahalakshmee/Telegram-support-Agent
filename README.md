@@ -1,4 +1,4 @@
-##🤖 Telegram Support Agent (Agentic AI + RAG)
+🤖 ##Telegram Support Agent (Agentic AI + RAG)
 
 Tech Stack: Python, LangChain, Agentic AI, Retrieval-Augmented Generation (RAG), Telegram Bot API, Google APIs
 
