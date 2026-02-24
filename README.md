@@ -70,8 +70,10 @@ Prevents hallucination using strict prompt control
 
 Negotiation is controlled using structured status logic:
 
- ✅ Accepted       - Asks for final confirmation → Triggers email workflow             
- ❌ Rejected       - Politely closes conversation                                      
+ ✅ Accepted       - Asks for final confirmation → Triggers email workflow    
+ 
+ ❌ Rejected       - Politely closes conversation      
+ 
  ⚠️ Limit Reached - States final price and instructs user to reply only “Yes” or “No” 
 
  Module 2: Meeting Scheduling Agent (Agentic AI)
